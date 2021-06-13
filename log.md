@@ -1,20 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: June 12, 2021
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Scrimba Netflix clone - worked on getting the firebase username into the profile button. Worked on figuring out the "algorithm" for getting suggestions.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It's tough visualizing complex sequences of code when you can't always see the data. It has been really helpful to write it out on google docs.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 13, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Finally got my "algorithm" working that gives me an array of users who have rated movies similarly to me and suggestions from that. Yay! This took me probably a week to visualize and type out.
+
+**Thoughts**: It is very rewarding to finally figure something else out. If you are working with a lot of nested objects it can be difficult to keep where you are at in them clear
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
